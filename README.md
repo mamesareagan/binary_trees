@@ -1,10 +1,10 @@
 
 <h1>C - Binary trees</h1>
-This was a partner project in which we learned about the details, advantages, and disadvantages of using trees as data structures. We learned about how to qualify trees as well as how to traverse them. 
+<strong>This was a partner project in which we learned about the details, advantages, and disadvantages of using trees as data structures. We learned about how to qualify trees as well as how to traverse them.</strong>
 
-Tests ✔️
+<h3>Tests ✔️</h3>
 tests: Folder of test files for all tasks. Provided by Holberton School.
-Helper File 🙌
+<h3>Helper File 🙌</h3>
 binary_tree_print.c: C function that prints binary trees in a pretty way.
-Header File 📁
+<h3>Header File 📁</h3>
 binary_trees.h: Header file containing definitions and prototypes for all types and functions written for the project.
